@@ -1,3 +1,9 @@
+> **🌐 English Quick-Start: <60ms 8kHz RTP Telephony Voice Barge-In Lab**
+> Building production PSTN/SIP voice agents plagued by 800ms–1,400ms WebSocket interruption lag?
+> - **Runnable Lab (Python & Java)**: [`01-voice-agent-rtp-bargein`](./01-voice-agent-rtp-bargein) — Raw 8kHz RTP + FreeSWITCH + SOXR VHQ resampling + 256-frame outbound ring buffer (`0.16ms` audio flush).
+> - **Live Simulator & B2B Engineering**: [hardcall.statementflow.win](https://hardcall.statementflow.win) (`$299` 48h Latency Audit · `$1,200` Self-Hosted RTP Kit · `$3,000+` Custom SIP Integration).
+> - **Run Locally**: `python3 01-voice-agent-rtp-bargein/bargein_voice_engine.py`
+
 <div align="center">
 
 # 🎙️ AI Agent 与实时语音工程全景实战手册
